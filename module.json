@@ -1,0 +1,41 @@
+{
+  "id": "gmk-pf2e-golarion",
+  "title": "GMK - PF2e: Golarion",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Gamemaster Kosen",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "gmk-pf2e-golarion",
+      "label": "GMK PF2e: Golarion",
+      "path": "packs/gmk-pf2e-golarion",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "gmk-pf2e-basis-pack",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": ""
+}

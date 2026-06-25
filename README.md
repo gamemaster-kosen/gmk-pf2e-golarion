@@ -5,5 +5,5 @@ Maps
 - Inner Sea Region
 - Darklands
   - Nar Voth
-- Sekamina
-- Orv
+  - Sekamina
+  - Orv

@@ -7,3 +7,9 @@ Maps
   - Nar Voth
   - Sekamina
   - Orv
+
+Features
+- Map Pins (incl. Blank Journal Entries)
+- Inner Sea Region Overlays
+  - Regional Borders
+  - Trade Routes

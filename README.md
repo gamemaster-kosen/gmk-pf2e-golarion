@@ -13,3 +13,10 @@ Features
 - Inner Sea Region Overlays
   - Regional Borders
   - Trade Routes
+
+References / Resources
+- Maps
+  - Inner Sea Poster Map Folio
+  - Pathfinder Campaign Setting: Inner Sea Poster Map Folio
+  - Golarion World Map
+  - PF1e: Inner Sea World Guide

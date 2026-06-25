@@ -20,3 +20,6 @@ References / Resources
   - Pathfinder Campaign Setting: Inner Sea Poster Map Folio
   - Golarion World Map
   - PF1e: Inner Sea World Guide
+
+
+(THIS PAGE IS A WIP)

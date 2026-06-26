@@ -1,0 +1,21 @@
+Game Icons Attribution
+======================
+
+This module includes icons from Game-icons.net.
+
+Icons are licensed under the Creative Commons Attribution 3.0 Unported (CC BY 3.0) license.
+
+Original authors include Lorc, Delapouite, and numerous contributors.
+A complete list of authors is available at:
+https://game-icons.net/about.html#authors
+
+Source:
+https://game-icons.net
+
+License:
+https://creativecommons.org/licenses/by/3.0/
+
+Changes:
+Icons may have been resized, recolored, converted, or otherwise modified for use in this Foundry VTT module.
+
+Copyright remains with the respective icon authors.

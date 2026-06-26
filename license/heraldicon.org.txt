@@ -1,0 +1,13 @@
+Herald Icons Attribution
+======================
+
+This module includes icons created with Heraldicon.org.
+
+Icons are created from components, which are licensed under a Creative Commons License or declared Public Domain.
+Icons created by the Author "Kosen", are licensed under CC BY 4.0.
+
+Source:
+https://heraldicon.org/
+
+License:
+https://creativecommons.org/licenses/by/4.0/

@@ -28,7 +28,7 @@ References / Resources
 
 ---
 
-File & Storage Optimization Tips. (WIP SECTION)
+File Optimization Tips. (WIP SECTION)
 
 This FoundryVTT module includes high resolution maps, of which not all may be required during gameplay.
 To further optimize the module, and remove maps you do not require ...

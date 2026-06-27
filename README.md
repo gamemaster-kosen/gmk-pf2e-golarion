@@ -70,7 +70,7 @@ Below is a WIP section detailing the different types of common icons and their m
 
 
 | Size | Settlement | Icon | Icon Size |
-| :--- | :---: | --- | --- |
+| :--- | :---: | --- | :---: |
 |  | Thorp | | 32 |
 |  | Hamlet | | 40 |
 | Small | Village | | 50 |

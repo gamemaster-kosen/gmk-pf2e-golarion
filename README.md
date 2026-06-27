@@ -38,9 +38,7 @@ It is suggested that a new layer be created, keeping the base map visible.
 Then any user-created pins should be put on this new layer.
 This ensures that as the number of user-created pins expands, it doesn't become an issue.
 
----
-
-Active Development
+# Active Development
 
 Currently investigating the potential for splitting the maps into their PF2e Regions; of ...
 - Abasalom
@@ -53,18 +51,6 @@ Currently investigating the potential for splitting the maps into their PF2e Reg
 - Old Cheliax
 - Saga Lands
 - Shining Kingdoms
-
----
-
-File Optimization Tips. (WIP SECTION)
-
-This FoundryVTT module includes high resolution maps, of which not all may be required during gameplay.
-To further optimize the module, and remove maps you do not require ...
-- First, lock the module on the FVTT Modules Management Homepage by right-clicking.
-- Navigate to ... "Foundry User Data/Data/modules/gmk-pf2e-golarion/assets/scenes"
-- Remove only those files you do not wish to use.
-
-You may delete the levels associated with the maps you have removed in FoundryVTT Scene Management.
 
 # Homebrewing & Content Customisation Guide
 
@@ -109,6 +95,16 @@ Below is a WIP section detailing the different types of common icons and their m
 | Desert | x | 60 |
 
 Other Points of Interest, currently Icon Size = 40
+
+## File Optimization Tips. (WIP SECTION)
+
+This FoundryVTT module includes high resolution maps, of which not all may be required during gameplay.
+To further optimize the module, and remove maps you do not require ...
+- First, lock the module on the FVTT Modules Management Homepage by right-clicking.
+- Navigate to ... "Foundry User Data/Data/modules/gmk-pf2e-golarion/assets/scenes"
+- Remove only those files you do not wish to use.
+
+You may delete the levels associated with the maps you have removed in FoundryVTT Scene Management.
 
 # Licensing & Attribution
 

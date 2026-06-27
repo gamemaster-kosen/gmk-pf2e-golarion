@@ -3,6 +3,8 @@ Hexploration Maps of Golarion's Inner Sea Region from Pathfinder.
 
 **(This page is a Work-In-Progress)**
 
+**Before "v1.0.0" releases, all content on this page is subject to change.**
+
 # Content
 
 Maps

@@ -66,6 +66,8 @@ To further optimize the module, and remove maps you do not require ...
 
 You may delete the levels associated with the maps you have removed in FoundryVTT Scene Management.
 
+# Licensing & Attribution
+
 ---
 > **Paizo Inc. Community Use Policy**
 > 

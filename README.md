@@ -52,6 +52,8 @@ Alternative importable versions of the map, using the Adventure Importer, which 
 
 TLDR; I use custom-written scripts to mass-edit content. i.e. I can update all settlements, or geographical features, quickly -- ensuring unformity of content. This scripts are crude, and not fit for wider release. I am investigating the possibility of tools which could help user-customisation of the content. i.e. if you disagree all islands should be X colour!
 
+(The easiest way to do this currently, for swapping out geographical feature icons, is to replace the icon inside the assets folder. All icons in this module reference their own version stored in the folder.)
+
 Map Pins have icons, colours, and are scaled according to their associated locations.
 
 Below is a WIP section detailing the different types of common icons and their meaning.

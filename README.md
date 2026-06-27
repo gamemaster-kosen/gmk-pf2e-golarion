@@ -69,19 +69,19 @@ Below is a WIP section detailing the different types of common icons and their m
 | Metropolis | x | 80 |
 
 
-| Size | Settlement | Icon |
-| :--- | :---: | --- |
-|  | Thorp | |
-|  | Hamlet | |
-| Small | Village | |
-|  | Village | |
-| Large | Village | |
-| Small | Town | |
-|  | Town | |
-| Large | Town | |
-| Small | City | |
-| Large | City | |
-|  | Metropolis | |
+| Size | Settlement | Icon | Icon Size |
+| :--- | :---: | --- | --- |
+|  | Thorp | | 32 |
+|  | Hamlet | | 40 |
+| Small | Village | | 50 |
+|  | Village | | 50 |
+| Large | Village | | 50 |
+| Small | Town | | 60 |
+|  | Town | | 60 |
+| Large | Town | | 60 |
+| Small | City | | 70 |
+| Large | City | | 70 |
+|  | Metropolis | | 80 |
 
 | Geograhical Feature | Icon | Size (px) |
 | :--------- | :---: | :---: |

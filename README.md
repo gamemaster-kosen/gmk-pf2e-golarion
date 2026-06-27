@@ -69,9 +69,11 @@ Below is a WIP section detailing the different types of common icons and their m
 | Metropolis | x | 80 |
 
 
-| Settlement | Modifier |
+| Size | Settlement |
 | :--- | :---: |
 | Small | Village |
+|  | Village |
+| Large | Village |
 
 
 | Geograhical Feature | Icon | Size (px) |

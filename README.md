@@ -70,7 +70,7 @@ You may delete the levels associated with the maps you have removed in FoundryVT
 
 (WIP; updating as development continues.)
 
-TLDR; I use custom-written scripts to mass-edit content. i.e. I can update all settlements, or geographical features, quickly -- ensuring unformity of content. This scripts are crude, and not fit for wider release.
+TLDR; I use custom-written scripts to mass-edit content. i.e. I can update all settlements, or geographical features, quickly -- ensuring unformity of content. This scripts are crude, and not fit for wider release. I am investigating the possibility of tools which could help user-customisation of the content. i.e. if you disagree all islands should be X colour!
 
 Map Pins have icons, colours, and are scaled according to their associated locations.
 

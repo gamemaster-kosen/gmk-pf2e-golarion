@@ -28,6 +28,15 @@ References / Resources
 
 ---
 
+Tips & Tricks
+
+Homebrew Map Pins
+It is suggested that a new layer be created, keeping the base map visible.
+Then any user-created pins should be put on this new layer.
+This ensures that as the number of user-created pins expands, it doesn't become an issue.
+
+---
+
 Active Development
 
 Currently investigating the potential for splitting the maps into their PF2e Regions; of ...

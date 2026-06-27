@@ -28,6 +28,22 @@ References / Resources
 
 ---
 
+Active Development
+
+Currently investigating the potential for splitting the maps into their PF2e Regions; of ...
+- Abasalom
+- Broken Lands
+- Eye of Dread
+- Golden Road
+- High Seas
+- Impossible Lands
+- Mwangi Expanse
+- Old Cheliax
+- Saga Lands
+- Shining Kingdoms
+
+---
+
 File Optimization Tips. (WIP SECTION)
 
 This FoundryVTT module includes high resolution maps, of which not all may be required during gameplay.

@@ -42,6 +42,8 @@ Currently investigating the potential for splitting the maps into their PF2e Reg
 - Saga Lands
 - Shining Kingdoms
 
+Alternative importable versions of the map, using the Adventure Importer, which would allow for "Templated Content", such as short snippets of info about locations, or Nation / City Statblocks.
+
 # Homebrewing & Content Customisation Guide
 
 (WIP; updating as development continues.)

@@ -108,6 +108,8 @@ Below is a WIP section detailing the different types of common icons and their m
 | Grassland | x | 40 |
 | Desert | x | 60 |
 
+Other Points of Interest, currently Icon Size = 40
+
 # Licensing & Attribution
 
 > **Paizo Inc. Community Use Policy**

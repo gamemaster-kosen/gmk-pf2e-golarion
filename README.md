@@ -32,9 +32,9 @@ File Optimization Tips. (WIP SECTION)
 
 This FoundryVTT module includes high resolution maps, of which not all may be required during gameplay.
 To further optimize the module, and remove maps you do not require ...
-First, lock the module on the FVTT Modules Management Homepage by right-clicking.
-Navigate to ... "Foundry User Data/Data/modules/gmk-pf2e-golarion/assets/scenes"
-Remove only those files you do not wish to use.
+- First, lock the module on the FVTT Modules Management Homepage by right-clicking.
+- Navigate to ... "Foundry User Data/Data/modules/gmk-pf2e-golarion/assets/scenes"
+- Remove only those files you do not wish to use.
 
 ---
 Paizo Inc. Community Use Policy

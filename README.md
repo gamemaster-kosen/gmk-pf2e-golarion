@@ -74,6 +74,12 @@ Below is a WIP section detailing the different types of common icons and their m
 | Small | Village |
 |  | Village |
 | Large | Village |
+| Small | Town |
+|  | Town |
+| Large | Town |
+| Small | City |
+| Large | City |
+|  | Metropolis |
 
 
 | Geograhical Feature | Icon | Size (px) |

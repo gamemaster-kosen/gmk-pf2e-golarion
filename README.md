@@ -71,6 +71,8 @@ Below is a WIP section detailing the different types of common icons and their m
 
 | Size | Settlement |
 | :--- | :---: |
+|  | Thorp |
+|  | Hamlet |
 | Small | Village |
 |  | Village |
 | Large | Village |

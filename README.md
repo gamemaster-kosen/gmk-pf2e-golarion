@@ -90,6 +90,24 @@ Below is a WIP section detailing the different types of common icons and their m
 | Large City | x | 70 |
 | Metropolis | x | 80 |
 
+| Geograhical Feature | Icon | Size (px) |
+| :--------- | :---: | :---: |
+| Rivers | x | 32 |
+| Waterfall | x | 32 |
+| Mountain | x | 50 |
+| Forest | x | 50 |
+| Jungle | x | 50 |
+| Hill | x | 50 |
+| Island | x | 50 |
+| Cave | x | 32 |
+| Ruin | x | 32 |
+| Volcano | x | 40 |
+| Coast | x | 40 |
+| Swamp | x | 40 |
+| Oasi | x | 40 |
+| Grassland | x | 40 |
+| Desert | x | 60 |
+
 # Licensing & Attribution
 
 > **Paizo Inc. Community Use Policy**

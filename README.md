@@ -74,7 +74,17 @@ Below is a WIP section detailing the different types of common icons and their m
 
 | Settlement | Icon | Size (px) |
 | :--------- | :---: | :---: |
-| Thorp | hut.svg | 32 |
+| Thorp | x | 32 |
+| Hamlet | x | 32 |
+| Small Village | x | 32 |
+| Village | x | 40 |
+| Large Village | x | 40 |
+| Small Town | x | 40 |
+| Town | x | 50 |
+| Large Town | x | 50 |
+| Small City | x | 60 |
+| Large City | x | 70 |
+| Metropolis | x | 80 |
 
 # Licensing & Attribution
 

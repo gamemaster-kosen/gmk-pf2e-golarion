@@ -56,6 +56,14 @@ Currently investigating the potential for splitting the maps into their PF2e Reg
 
 ---
 
+# Homebrewing & Content Guide
+
+Map Pins have icons, colours, and are scaled according to their associated locations.
+
+Below is a WIP section detailing the different types of common icons and their meaning.
+
+---
+
 File Optimization Tips. (WIP SECTION)
 
 This FoundryVTT module includes high resolution maps, of which not all may be required during gameplay.

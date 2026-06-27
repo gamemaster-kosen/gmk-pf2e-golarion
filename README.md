@@ -73,7 +73,7 @@ Map Pins have icons, colours, and are scaled according to their associated locat
 Below is a WIP section detailing the different types of common icons and their meaning.
 
 | Settlement | Icon | Size (px) |
-| :--------- | ---- | --- |
+| :--------- | :---: | :---: |
 | Thorp | hut.svg | 32 |
 
 # Licensing & Attribution

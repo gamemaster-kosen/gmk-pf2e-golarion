@@ -36,6 +36,8 @@ To further optimize the module, and remove maps you do not require ...
 - Navigate to ... "Foundry User Data/Data/modules/gmk-pf2e-golarion/assets/scenes"
 - Remove only those files you do not wish to use.
 
+You may delete the levels associated with the maps you have removed in FoundryVTT Scene Management.
+
 ---
 Paizo Inc. Community Use Policy
 

@@ -83,8 +83,6 @@ Below is a WIP section detailing the different types of common icons and their m
 | Large | City | |
 |  | Metropolis | |
 
-<span style="color:blue">some *blue* text</span>.
-
 | Geograhical Feature | Icon | Size (px) |
 | :--------- | :---: | :---: |
 | River | ![](docs/images/game-icons.net/river.svg) | 32 |

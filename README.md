@@ -70,10 +70,10 @@ Below is a WIP section detailing the different types of common icons and their m
 
 | Geograhical Feature | Icon | Size (px) |
 | :--------- | :---: | :---: |
-| River | x | 32 |
-| Waterfall | x | 32 |
+| River | ![](docs/images/game-icons.net/river.svg) | 32 |
+| Waterfall | ![](docs/images/game-icons.net/waterfall.svg) | 32 |
 | Mountain | x | 50 |
-| Forest | x | 50 |
+| Forest | ![](docs/images/game-icons.net/forest.svg) | 50 |
 | Jungle | x | 50 |
 | Hill | x | 50 |
 | Island | x | 50 |

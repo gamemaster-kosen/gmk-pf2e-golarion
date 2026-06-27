@@ -58,7 +58,7 @@ Below is a WIP section detailing the different types of common icons and their m
 | :--------- | :---: | :---: |
 | Thorp | x | 32 |
 | Hamlet | x | 32 |
-| Small Village | x | 32 |
+| Small Village <br>Test | x | 32 |
 | Village | x | 40 |
 | Large Village | x | 40 |
 | Small Town | x | 40 |

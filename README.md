@@ -21,23 +21,6 @@ This FoundryVTT Module contains Unofficial Maps of Golarion from the Pathfinder 
 
 ## File Optimization
 
-Users desiring to optimize file-space requirements can choose to remove unrequired content.
-
-The following is a short guide on how to accomplish this.
-
-- Navigate to FoundryVTT Module Management homepage.
-- Select the module; and lock the module (this prevents overwriting of user-defined settings).
-- In FoundryVTT Scenes, remove Levels associated with unrequired maps.
-- Navigate to ... "Foundry User Data/Data/modules/gmk-pf2e-golarion"
-- Delete webp files associated with undesired maps.
-
-Redownload maps from this github repository, and place them in their associated folders.
-
-
----
-
-## File Optimization
-
 Users wishing to reduce disk space can remove unneeded map files.
 
 ### Steps

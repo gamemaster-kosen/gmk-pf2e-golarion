@@ -9,7 +9,7 @@ A brief outline of the content provided in this module.
 ### [FoundryVTT] - Integration & Functionality
 
 - Blank Journal Entries; with associated Map Pins.
-- Levels.
+- Levels. (seperating Maps; and Map Pins)
 - Pre-Configured Grid. (at a size of 100px)
 - Overlays; including Trade Routes + Nation & Regional Borders. (Inner Sea Region Only)
 

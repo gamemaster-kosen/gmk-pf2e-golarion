@@ -14,9 +14,9 @@ Hexploration maps of the Inner Sea Region; including the Darklands.
 | Level | Map | Scale |
 | :--- | :---: | --- |
 | Golarion | Inner Sea Region | 12mi per Hex |
-| Darklands | Nar Voth (Inner Sea Region) | 12mi per Hex |
-| Darklands | Sekamina (Inner Sea Region) | 12mi per Hex |
-| Darklands | Orv (Inner Sea Region) | 12mi per Hex |
+| Darklands | Nar Voth | 12mi per Hex |
+| Darklands | Sekamina | 12mi per Hex |
+| Darklands | Orv | 12mi per Hex |
 
 ---
 

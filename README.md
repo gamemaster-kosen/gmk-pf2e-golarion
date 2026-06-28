@@ -40,6 +40,7 @@ A variety of resources were used to ensure all maps are faithful and accurate.
 | --- | --- | --- |
 | Book | PF1e: Inner Sea World Guide | Information |
 | Book | PF2e: World Guide | Information |
+| Book | PF2e: Travel Guide | Information |
 
 # Active Development
 

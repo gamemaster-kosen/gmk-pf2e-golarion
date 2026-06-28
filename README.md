@@ -19,6 +19,10 @@ This FoundryVTT Module contains Unofficial Maps of Golarion from the Pathfinder 
 | Map | Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
 | Map | Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
 
+## File Optimization
+
+x
+
 # Licensing & Attribution
 
 > **Paizo Inc. Community Use Policy**

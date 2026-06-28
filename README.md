@@ -4,6 +4,10 @@ This FoundryVTT Module contains Unofficial Maps of Golarion from the Pathfinder 
 
 # Content
 
+### [FVTT] - Integration & Functionality
+
+- Blank Journal Entries; with associated Map Pins.
+
 ### [Map] - Inner Sea Region
 
 | Type | Level | Map | Scale |

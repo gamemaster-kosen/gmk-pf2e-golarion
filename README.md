@@ -22,9 +22,6 @@ Hexploration maps of the Inner Sea Region; including the Darklands.
 
 Features
 - Map Pins (incl. Blank Journal Entries)
-- Inner Sea Region Overlays
-  - Regional Borders
-  - Trade Routes
 
 References / Resources
 - Maps

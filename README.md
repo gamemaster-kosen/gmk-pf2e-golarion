@@ -12,7 +12,7 @@ Hexploration Map of the Inner Sea Region from Pathfinder's Golarion.
 
 
 | Type | Map | Scale | Description |
-| :--- | --- | --- |
+| :--- | --- | --- | --- |
 | World | Inner Sea Region | 12mi per Hex | Inner Sea Region from Pathfinder's Golarion |
 | Underground | Nar Voth | 12mi per Hex | 1st layer of the Darklands beneath Inner Sea Region |
 

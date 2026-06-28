@@ -9,12 +9,12 @@ Hexploration Maps of Golarion's Inner Sea Region from Pathfinder.
 
 ### Inner Sea Region
 
-| Type | Map |
-| :--- | :---: |
-| Golarion | Inner Sea Region |
-| Darklands | Nar Voth (Inner Sea Region) |
-| Darklands | Sekamina (Inner Sea Region) |
-| Darklands | Orv (Inner Sea Region) |
+| Type | Map | Scale |
+| :--- | :---: | --- |
+| Golarion | Inner Sea Region | 12mi per Hex |
+| Darklands | Nar Voth (Inner Sea Region) | 12mi per Hex |
+| Darklands | Sekamina (Inner Sea Region) | 12mi per Hex |
+| Darklands | Orv (Inner Sea Region) | 12mi per Hex |
 
 ---
 

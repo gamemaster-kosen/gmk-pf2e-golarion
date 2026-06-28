@@ -11,7 +11,7 @@ This FoundryVTT Module contains Unofficial Maps of Golarion from the Pathfinder 
 
 Hexploration maps of the Inner Sea Region; including the Darklands.
 
-| Type | Map | Scale |
+| Level | Map | Scale |
 | :--- | :---: | --- |
 | Golarion | Inner Sea Region | 12mi per Hex |
 | Darklands | Nar Voth (Inner Sea Region) | 12mi per Hex |

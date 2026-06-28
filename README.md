@@ -18,6 +18,7 @@ Hexploration Maps of Golarion's Inner Sea Region from Pathfinder.
 
 
 | Continent | Map |
+| --- | --- |
 | Avistan | Inner Sea Region |
 | Garund | Inner Sea Region |
 

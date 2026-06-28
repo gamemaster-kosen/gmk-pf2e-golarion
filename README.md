@@ -1,5 +1,5 @@
 # GMK - PF2e: Golarion
-Hexploration Maps of Golarion's Inner Sea Region from Pathfinder.
+This FoundryVTT Module contains Unofficial Maps of Golarion from the Pathfinder TTRPG.
 
 **(This page is a Work-In-Progress)**
 
@@ -8,6 +8,8 @@ Hexploration Maps of Golarion's Inner Sea Region from Pathfinder.
 # Content
 
 ### [Map] - Inner Sea Region
+
+This is a faithful and accurate recreation of Golarion's Inner Sea Region at a scale of 12 Miles per Hex.
 
 | Type | Map | Scale |
 | :--- | :---: | --- |

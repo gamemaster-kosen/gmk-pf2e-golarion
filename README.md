@@ -13,9 +13,9 @@ Hexploration maps of the Inner Sea Region; including the Darklands.
 
 Scale = 12mi per Hex.
 
-| Level | Map | Scale |
+| Level | Map | Github Link |
 | :--- | :---: | --- |
-| Golarion | Inner Sea Region | x |
+| Golarion | Inner Sea Region | ![Inner Sea Region](assets/inner-sea-region/base.webp) |
 | Darklands | Nar Voth | x |
 | Darklands | Sekamina | x |
 | Darklands | Orv | x |

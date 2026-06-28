@@ -32,8 +32,9 @@ References / Resources
   - Golarion World Map
   - PF1e: Inner Sea World Guide
 
+### [Resources & References] - Map Creation Attribution
 
-(THIS PAGE IS A WIP)
+A variety of resources were used to ensure all maps are faithful and accurate.
 
 # Active Development
 

@@ -20,28 +20,9 @@ Map Pins are linked to Blank Journal Entries.
 | Map | Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. | Map Pinz, |
 | Map | Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | 12mi. per Hex. | Map Pins, |
 
----
-
-Features
-- Map Pins (incl. Blank Journal Entries)
-
-References / Resources
-- Maps
-  - Inner Sea Poster Map Folio
-  - Pathfinder Campaign Setting: Inner Sea Poster Map Folio
-  - Golarion World Map
-  - PF1e: Inner Sea World Guide
-
 ### [Resources & References] - Map Creation Attribution
 
-This is not an exhaustive list, due to the vast amount of information required to ensure all maps were created faithful and accurate.
-
-| Type | Source | Usage |
-| --- | --- | --- |
-| Book | PF1e: Campaign Setting: The Inner Sea World Guide | Information |
-| Book | PF1e: Inner Sea World Guide | Information |
-| Book | PF2e: Lost Omens World Guide | Information |
-| Book | PF2e: Lost Omens Travel Guide | Information |
+x
 
 # Active Development
 

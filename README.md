@@ -15,7 +15,7 @@ Scale = 12mi per Hex.
 
 | Level | Map | Github Link |
 | :--- | :---: | --- |
-| Golarion | Inner Sea Region | ![Inner Sea Region](assets/inner-sea-region/base.webp) |
+| Golarion | Inner Sea Region | ![Inner Sea Region](../assets/inner-sea-region/base.webp) |
 | Darklands | Nar Voth | x |
 | Darklands | Sekamina | x |
 | Darklands | Orv | x |

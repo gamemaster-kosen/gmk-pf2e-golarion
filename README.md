@@ -13,7 +13,7 @@ Hexploration maps of the Inner Sea Region; including the Darklands.
 
 Scale = 12mi per Hex.
 
-| Level | Map | Github Link |
+| Level | Map | Description |
 | :--- | :---: | --- |
 | Golarion | [Inner Sea Region](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/inner-sea-region/base.webp) |  |
 | Darklands | [Nar Voth](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/nar-voth.webp) | x |

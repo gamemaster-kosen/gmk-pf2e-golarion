@@ -38,9 +38,10 @@ A variety of resources were used to ensure all maps are faithful and accurate.
 
 | Type | Source | Usage |
 | --- | --- | --- |
+| Book | PF1e: Campaign Setting: The Inner Sea World Guide | Information |
 | Book | PF1e: Inner Sea World Guide | Information |
-| Book | PF2e: World Guide | Information |
-| Book | PF2e: Travel Guide | Information |
+| Book | PF2e: Lost Omens World Guide | Information |
+| Book | PF2e: Lost Omens Travel Guide | Information |
 
 # Active Development
 

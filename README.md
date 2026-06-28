@@ -16,9 +16,9 @@ Scale = 12mi per Hex.
 | Level | Map | Github Link |
 | :--- | :---: | --- |
 | Golarion | [Inner Sea Region](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/inner-sea-region/base.webp) |  |
-| Darklands | Nar Voth | x |
-| Darklands | Sekamina | x |
-| Darklands | Orv | x |
+| Darklands | [Nar Voth](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/nar-voth.webp) | x |
+| Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | x |
+| Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | x |
 
 ---
 

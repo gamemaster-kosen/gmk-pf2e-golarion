@@ -11,12 +11,12 @@ This FoundryVTT Module contains Unofficial Maps of Golarion from the Pathfinder 
 
 Hexploration maps of the Inner Sea Region; including the Darklands.
 
-| Level | Map | Scale | Features |
-| :--- | :---: | :---: | :--- |
-| Golarion | [Inner Sea Region](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/inner-sea-region/base.webp) | 12mi. per Hex. | Map Pins, Nation & Region Borders, Trade Routes |
-| Darklands | [Nar Voth](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/nar-voth.webp) | 12mi. per Hex. | Map Pins, |
-| Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. | Map Pinz, |
-| Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | 12mi. per Hex. | Map Pins, |
+| Type | Level | Map | Scale | Features |
+| --- | :--- | :---: | :---: | :--- |
+| Map | Golarion | [Inner Sea Region](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/inner-sea-region/base.webp) | 12mi. per Hex. | Map Pins, Nation & Region Borders, Trade Routes |
+| Map | Darklands | [Nar Voth](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/nar-voth.webp) | 12mi. per Hex. | Map Pins, |
+| Map | Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. | Map Pinz, |
+| Map | Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | 12mi. per Hex. | Map Pins, |
 
 ---
 

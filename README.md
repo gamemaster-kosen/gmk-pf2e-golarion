@@ -13,7 +13,9 @@ A brief outline of the content provided in this module.
 - Grid.
 - Overlays; including Trade Routes + Nation & Regional Borders. (Inner Sea Region Only)
 
-### [Map] - Inner Sea Region
+### [Map] - Inner Sea Region (Hexploration)
+
+A hexploration map of the Inner Sea Region.
 
 | Type | Level | Map | Scale |
 | --- | :--- | :---: | :---: |

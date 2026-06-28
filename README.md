@@ -10,7 +10,7 @@ A brief outline of the content provided in this module.
 
 - Blank Journal Entries; with associated Map Pins.
 - Levels.
-- Grid.
+- Pre-Configured Grid. (at a size of 100px)
 - Overlays; including Trade Routes + Nation & Regional Borders. (Inner Sea Region Only)
 
 ### [Map] - Inner Sea Region

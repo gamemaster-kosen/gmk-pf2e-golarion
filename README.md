@@ -4,6 +4,8 @@ This FoundryVTT Module contains Unofficial Maps of Golarion from the Pathfinder 
 
 # Content
 
+A brief outline of the content provided in this module.
+
 ### [FoundryVTT] - Integration & Functionality
 
 - Blank Journal Entries; with associated Map Pins.

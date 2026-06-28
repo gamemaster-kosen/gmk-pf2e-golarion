@@ -1,17 +1,10 @@
 # GMK - PF2e: Golarion
+
 This FoundryVTT Module contains Unofficial Maps of Golarion from the Pathfinder TTRPG.
-
-**(This page is a Work-In-Progress)**
-
-**Before "v1.0.0" releases, all content on this page is subject to change.**
 
 # Content
 
 ### [Map] - Inner Sea Region
-
-Hexploration maps of the Inner Sea Region; including the Darklands.
-
-Map Pins are linked to Blank Journal Entries.
 
 | Type | Level | Map | Scale |
 | --- | :--- | :---: | :---: |

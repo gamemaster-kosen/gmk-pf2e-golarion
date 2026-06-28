@@ -13,12 +13,12 @@ Hexploration maps of the Inner Sea Region; including the Darklands.
 
 Map Pins are linked to Blank Journal Entries.
 
-| Type | Level | Map | Scale | Features |
-| --- | :--- | :---: | :---: | :--- |
-| Map | Golarion | [Inner Sea Region](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/inner-sea-region/base.webp) | 12mi. per Hex. | Map Pins, Nation & Region Borders, Trade Routes |
-| Map | Darklands | [Nar Voth](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/nar-voth.webp) | 12mi. per Hex. | Map Pins, |
-| Map | Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. | Map Pinz, |
-| Map | Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | 12mi. per Hex. | Map Pins, |
+| Type | Level | Map | Scale |
+| --- | :--- | :---: | :---: |
+| Map | Golarion | [Inner Sea Region](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/inner-sea-region/base.webp) | 12mi. per Hex. |
+| Map | Darklands | [Nar Voth](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/nar-voth.webp) | 12mi. per Hex. |
+| Map | Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
+| Map | Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
 
 ### [Resources & References] - Map Creation Attribution
 

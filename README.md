@@ -31,6 +31,8 @@ The following is a short guide on how to accomplish this.
 - Navigate to ... "Foundry User Data/Data/modules/gmk-pf2e-golarion"
 - Delete webp files associated with undesired maps.
 
+Redownload maps from this github repository, and place them in their associated folders.
+
 # Licensing & Attribution
 
 > **Paizo Inc. Community Use Policy**

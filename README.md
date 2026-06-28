@@ -11,9 +11,9 @@ Hexploration Maps of Golarion's Inner Sea Region from Pathfinder.
 Hexploration Map of the Inner Sea Region from Pathfinder's Golarion.
 
 
-| Map | xxx | xxx |
+| Map | Scale | Description |
 | :--- | --- | --- |
-| Inner Sea Region | xxx | xxx |
+| Inner Sea Region | 12mi per Hex | Inner Sea Region from Pathfinder's Golarion |
 
 ---
 

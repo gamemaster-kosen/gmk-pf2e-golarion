@@ -34,7 +34,7 @@ References / Resources
 
 ### [Resources & References] - Map Creation Attribution
 
-A variety of resources were used to ensure all maps are faithful and accurate.
+This is not an exhaustive list, due to the vast amount of information required to ensure all maps were created faithful and accurate.
 
 | Type | Source | Usage |
 | --- | --- | --- |

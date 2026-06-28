@@ -16,24 +16,6 @@ Hexploration Maps of Golarion's Inner Sea Region from Pathfinder.
 | Darklands | Sekamina (Inner Sea Region) |
 | Darklands | Orv (Inner Sea Region) |
 
-
-
-| Type | Map | Scale | Description |
-| :--- | --- | --- | --- |
-| Overland | Inner Sea Region | 12mi per Hex | Inner Sea Region from Pathfinder's Golarion |
-| Underground | Nar Voth | 12mi per Hex | Darklands: Fist Layer |
-| Underground | Sekamina | 12mi per Hex | Darklands: Second Layer |
-| Underground | Orv | 12mi per Hex | Darklands: Third Layer |
-
-
-
-
-| Continent | Map |
-| --- | --- |
-| Avistan | Inner Sea Region |
-| Garund | Inner Sea Region |
-
-
 ---
 
 Features

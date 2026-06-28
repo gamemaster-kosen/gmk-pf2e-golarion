@@ -11,8 +11,6 @@ This FoundryVTT Module contains Unofficial Maps of Golarion from the Pathfinder 
 
 Hexploration maps of the Inner Sea Region; including the Darklands.
 
-Scale = 
-
 | Level | Map | Scale |
 | :--- | :---: | --- |
 | Golarion | [Inner Sea Region](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/inner-sea-region/base.webp) | 12mi. per Hex. |

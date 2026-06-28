@@ -33,6 +33,27 @@ The following is a short guide on how to accomplish this.
 
 Redownload maps from this github repository, and place them in their associated folders.
 
+
+---
+
+## File Optimization
+
+Users wishing to reduce disk space can remove unneeded map files.
+
+### Steps
+
+1. Open **FoundryVTT** and navigate to **Module Management**.
+2. Select the module and **Lock** it to prevent updates from restoring removed files.
+3. In **Scenes**, delete any **Levels** associated with maps you no longer require.
+4. Navigate to:
+
+   ```text
+   Foundry User Data/Data/modules/gmk-pf2e-golarion
+   ```
+
+5. Delete the `.webp` files for the maps you no longer want.
+6. If you need a map again later, download it from this GitHub repository and place it back in its original folder.
+
 # Licensing & Attribution
 
 > **Paizo Inc. Community Use Policy**

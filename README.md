@@ -9,7 +9,7 @@ This FoundryVTT Module contains Unofficial Maps of Golarion from the Pathfinder 
 
 ### [Map] - Inner Sea Region
 
-A hexploration map of the Inner Sea Region.
+A hexploration map of the Inner Sea Region of Golarion; spanning the continents of Avistan and Garund.
 
 | Type | Map | Scale |
 | :--- | :---: | --- |

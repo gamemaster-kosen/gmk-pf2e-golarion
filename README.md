@@ -36,6 +36,10 @@ References / Resources
 
 A variety of resources were used to ensure all maps are faithful and accurate.
 
+| Type | Source |
+| --- | --- |
+| Book | PF1e Inner Sea World Guide |
+
 # Active Development
 
 Currently investigating the potential for splitting the maps into their PF2e Regions; of ...

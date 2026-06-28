@@ -10,6 +10,11 @@ Hexploration Maps of Golarion's Inner Sea Region from Pathfinder.
 ## Inner Sea Region
 Hexploration Map of the Inner Sea Region from Pathfinder's Golarion.
 
+
+| Map | xxx | xxx |
+| :--- | --- | --- |
+| Inner Sea Region | xxx | xxx |
+
 ---
 
 Maps

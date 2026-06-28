@@ -28,6 +28,10 @@ A hexploration map of the Inner Sea Region.
 
 A brief guide on how users may customise this content.
 
+## Homebrew Locations
+
+Users creating their own **Map Pins**, linked to **Journal Entries**, are suggested to do so on a custom **Level**.
+
 ## File Optimization
 
 Users wishing to reduce disk space can remove unneeded map files.

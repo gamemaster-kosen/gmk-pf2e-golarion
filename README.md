@@ -24,6 +24,12 @@ A hexploration map of the Inner Sea Region.
 | Map | Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
 | Map | Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
 
+### [Recommended Module] - "GMK - Pan to Placeable"
+
+Extends base functionality of Placeables Sidebar, allowing navigation to Placeables on the canvas via "Jump to Placeable" context menu entry.
+
+Effectively turns your Placeable Sidebar into a "Map Navigation" section.
+
 # User-Guide
 
 A brief guide on how users may customise this content.

@@ -6,7 +6,8 @@
   "download": "https://github.com/gamemaster-kosen/gmk-pf2e-golarion/releases/download/0.0.3/module.zip",
   "compatibility": {
     "minimum": "14",
-    "verified": "14"
+    "verified": "14",
+    "maximum": "14"
   },
   "authors": [
     {

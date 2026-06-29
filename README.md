@@ -24,20 +24,20 @@ A hexploration map of the Inner Sea Region.
 | Map | Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
 | Map | Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
 
-| Size | Settlement | Icon |
-| --- | --- | --- |
-| x | thorp | hut.svg |
-| x | hamlet | huts-village.svg |
-| small | village | village.svg |
-| x | village | village.svg |
-| large | village | village.svg |
-| small | town | medieval-village-01.svg |
-| x | town | medieval-village-01.svg |
-| large | town | medieval-village-01.svg |
-| small | city | medieval-gate.svg |
-| x | city | medieval-gate.svg |
-| large | city | medieval-gate.svg |
-| x | metropolis | byzantin-temple.svg |
+| Size | Settlement | Icon | Pin Size |
+| --- | --- | --- | --- |
+| x | thorp | hut.svg | 32 |
+| x | hamlet | huts-village.svg | 40 |
+| small | village | village.svg | 50 |
+| x | village | village.svg | 50 |
+| large | village | village.svg | 50 |
+| small | town | medieval-village-01.svg | 60 |
+| x | town | medieval-village-01.svg | 60 |
+| large | town | medieval-village-01.svg | 60 |
+| small | city | medieval-gate.svg | 70 |
+| x | city | medieval-gate.svg | 70 |
+| large | city | medieval-gate.svg | 70 |
+| x | metropolis | byzantin-temple.svg | 80 |
 
 ### [Recommended Module] - "[GMK - Pan to Placeable](https://github.com/gamemaster-kosen/gmk-pan-to-placeable)"
 

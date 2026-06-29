@@ -30,19 +30,36 @@ docs/images/game-icons.net/hut.svg
 
 | Size | Settlement | Icon | Map Pin Size (px) |
 | --- | --- | --- | --- |
-| | thorp | <img src="docs/images/game-icons.net/hut.svg" width="48"> | 32 |
-| | hamlet | <img src="docs/images/game-icons.net/huts-village.svg" width="48"> | 40 |
-| small | village | <img src="docs/images/game-icons.net/village.svg" width="48"> | 50 |
-| | village | <img src="docs/images/game-icons.net/village.svg" width="48"> | 50 |
-| large | village | <img src="docs/images/game-icons.net/village.svg" width="48"> | 50 |
-| small | town | <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | 60 |
-| | town | <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | 60 |
-| large | town | <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | 60 |
-| small | city | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | 70 |
-| | city | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | 70 |
-| large | city | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | 70 |
-| | metropolis | <img src="docs/images/game-icons.net/byzantin-temple.svg" width="48"> | 80 |
-| | capital | <img src="docs/images/game-icons.net/capitol.svg" width="48"> | 80 |
+| |  |  | 32 |
+| |  |  | 40 |
+| small |  |  | 50 |
+| |  |  | 50 |
+| large |  |  | 50 |
+| small | town |  | 60 |
+| | town |  | 60 |
+| large | town |  | 60 |
+| small | city |  | 70 |
+| | city |  | 70 |
+| large | city |  | 70 |
+| | metropolis |  | 80 |
+| | capital |  | 80 |
+
+
+| Icon | Settlement |
+| --- | :--- |
+| <img src="docs/images/game-icons.net/hut.svg" width="48"> | thorp |
+| <img src="docs/images/game-icons.net/huts-village.svg" width="48"> | hamlet |
+| <img src="docs/images/game-icons.net/village.svg" width="48"> | village |
+| <img src="docs/images/game-icons.net/village.svg" width="48"> | village |
+| <img src="docs/images/game-icons.net/village.svg" width="48"> | village |
+| <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | town |
+| <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | town |
+| <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | town |
+| <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | city |
+| <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | city |
+| <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | city |
+| <img src="docs/images/game-icons.net/byzantin-temple.svg" width="48"> | metropolis |
+| <img src="docs/images/game-icons.net/capitol.svg" width="48"> | capital |
 
 ### [Recommended Module] - "[GMK - Pan to Placeable](https://github.com/gamemaster-kosen/gmk-pan-to-placeable)"
 

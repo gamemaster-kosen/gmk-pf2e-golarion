@@ -29,7 +29,7 @@ Map Pins have Icons and Sizes relative to their Locations.
 docs/images/game-icons.net/hut.svg
 
 | Size | Settlement | Icon | Map Pin Size (px) |
-| --- | --- | --- | --- |
+| --- | --- | --- | :---: |
 | |  |  | 32 |
 | |  |  | 40 |
 | small |  |  | 50 |

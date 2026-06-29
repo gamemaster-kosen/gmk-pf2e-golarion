@@ -24,25 +24,23 @@ A hexploration map of the Inner Sea Region.
 | Map | Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
 | Map | Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
 
-Map Pins have Icons and Sizes relative to their Locations.
+Map Pins have Icons and Sizes relative to their Location importance.
 
-docs/images/game-icons.net/hut.svg
-
-| Size | Settlement | Icon | Map Pin Size (px) |
-| --- | --- | --- | --- |
-| | thorp | <img src="docs/images/game-icons.net/hut.svg" width="48"> | 32 |
-| | hamlet | <img src="docs/images/game-icons.net/huts-village.svg" width="48"> | 40 |
-| small | village | <img src="docs/images/game-icons.net/village.svg" width="48"> | 50 |
-| | village | <img src="docs/images/game-icons.net/village.svg" width="48"> | 50 |
-| large | village | <img src="docs/images/game-icons.net/village.svg" width="48"> | 50 |
-| small | town | <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | 60 |
-| | town | <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | 60 |
-| large | town | <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | 60 |
-| small | city | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | 70 |
-| | city | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | 70 |
-| large | city | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | 70 |
-| | metropolis | <img src="docs/images/game-icons.net/byzantin-temple.svg" width="48"> | 80 |
-| | capital | <img src="docs/images/game-icons.net/capitol.svg" width="48"> | 80 |
+| Icon | Settlement | Pin Size (px) |
+| --- | ---: | :---: |
+| <img src="docs/images/game-icons.net/hut.svg" width="48"> | thorp | 32 |
+| <img src="docs/images/game-icons.net/huts-village.svg" width="48"> | hamlet | 40 |
+| <img src="docs/images/game-icons.net/village.svg" width="48"> | small village | 50 |
+| <img src="docs/images/game-icons.net/village.svg" width="48"> | village | 50 |
+| <img src="docs/images/game-icons.net/village.svg" width="48"> | large village | 50 |
+| <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | small town | 60 |
+| <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | town | 60 |
+| <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | large town | 60 |
+| <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | small city | 70 |
+| <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | city | 70 |
+| <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | large city | 70 |
+| <img src="docs/images/game-icons.net/byzantin-temple.svg" width="48"> | metropolis | 80 |
+| <img src="docs/images/game-icons.net/capitol.svg" width="48"> | capital | 80 |
 
 ### [Recommended Module] - "[GMK - Pan to Placeable](https://github.com/gamemaster-kosen/gmk-pan-to-placeable)"
 

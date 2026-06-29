@@ -38,6 +38,7 @@ A hexploration map of the Inner Sea Region.
 | x | city | medieval-gate.svg | 70 |
 | large | city | medieval-gate.svg | 70 |
 | x | metropolis | byzantin-temple.svg | 80 |
+| x | capital | capitol.svg | 80 |
 
 ### [Recommended Module] - "[GMK - Pan to Placeable](https://github.com/gamemaster-kosen/gmk-pan-to-placeable)"
 

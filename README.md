@@ -35,7 +35,7 @@ Map Pins have Icons and Sizes relative to their Location importance.
 | <img src="docs/images/game-icons.net/village.svg" width="48"> | large village | 50 |
 | <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | small town | 60 |
 | <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | town | 60 |
-| <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | large town | 60 |
+| <img src="docs/images/game-icons.net/large-town.svg" width="48"> | large town | 60 |
 | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | small city | 70 |
 | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | city | 70 |
 | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | large city | 70 |

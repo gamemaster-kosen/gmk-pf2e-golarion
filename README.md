@@ -26,10 +26,12 @@ A hexploration map of the Inner Sea Region.
 
 Map Pins have Icons and Sizes relative to their Locations.
 
+docs/images/game-icons.net/hut.svg
+
 | Size | Settlement | Icon | Map Pin Size (px) |
 | --- | --- | --- | --- |
 | | thorp | ![](docs/images/game-icons.net/hut.svg) | 32 |
-| | hamlet | huts-village.svg | 40 |
+| | hamlet | <img src="docs/images/game-icons.net/hut.svg" width="48"> | 40 |
 | small | village | village.svg | 50 |
 | | village | village.svg | 50 |
 | large | village | village.svg | 50 |

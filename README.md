@@ -26,6 +26,8 @@ A hexploration map of the Inner Sea Region.
 
 Map Pins have Icons and Sizes relative to their Location importance.
 
+Badges on Icons denote Modifiers; i.e. Small or Large.
+
 | Icon | Settlement | Pin Size (px) |
 | --- | ---: | :---: |
 | <img src="docs/images/game-icons.net/settlements/thorp.svg" width="48"> | thorp | 32 |

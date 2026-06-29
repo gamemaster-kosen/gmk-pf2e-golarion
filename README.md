@@ -28,7 +28,7 @@ Map Pins have Icons and Sizes relative to their Locations.
 
 | Size | Settlement | Icon | Map Pin Size (px) |
 | --- | --- | --- | --- |
-| | thorp | hut.svg | 32 |
+| | thorp | ![](https://github.com/gamemaster-kosen/gmk-pf2e-basis-pack/blob/main/assets/game-icons.net/hut.svg) | 32 |
 | | hamlet | huts-village.svg | 40 |
 | small | village | village.svg | 50 |
 | | village | village.svg | 50 |

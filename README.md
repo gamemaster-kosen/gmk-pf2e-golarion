@@ -26,21 +26,23 @@ A hexploration map of the Inner Sea Region.
 
 Map Pins have Icons and Sizes relative to their Locations.
 
+docs/images/game-icons.net/hut.svg
+
 | Size | Settlement | Icon | Map Pin Size (px) |
 | --- | --- | --- | --- |
-| | thorp | ![](https://github.com/gamemaster-kosen/gmk-pf2e-basis-pack/blob/main/assets/game-icons.net/hut.svg) | 32 |
-| | hamlet | huts-village.svg | 40 |
-| small | village | village.svg | 50 |
-| | village | village.svg | 50 |
-| large | village | village.svg | 50 |
-| small | town | medieval-village-01.svg | 60 |
-| | town | medieval-village-01.svg | 60 |
-| large | town | medieval-village-01.svg | 60 |
-| small | city | medieval-gate.svg | 70 |
-| | city | medieval-gate.svg | 70 |
-| large | city | medieval-gate.svg | 70 |
-| | metropolis | byzantin-temple.svg | 80 |
-| | capital | capitol.svg | 80 |
+| | thorp | <img src="docs/images/game-icons.net/hut.svg" width="48"> | 32 |
+| | hamlet | <img src="docs/images/game-icons.net/huts-village.svg" width="48"> | 40 |
+| small | village | <img src="docs/images/game-icons.net/village.svg" width="48"> | 50 |
+| | village | <img src="docs/images/game-icons.net/village.svg" width="48"> | 50 |
+| large | village | <img src="docs/images/game-icons.net/village.svg" width="48"> | 50 |
+| small | town | <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | 60 |
+| | town | <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | 60 |
+| large | town | <img src="docs/images/game-icons.net/medieval-village-01.svg" width="48"> | 60 |
+| small | city | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | 70 |
+| | city | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | 70 |
+| large | city | <img src="docs/images/game-icons.net/medieval-gate.svg" width="48"> | 70 |
+| | metropolis | <img src="docs/images/game-icons.net/byzantin-temple.svg" width="48"> | 80 |
+| | capital | <img src="docs/images/game-icons.net/capitol.svg" width="48"> | 80 |
 
 ### [Recommended Module] - "[GMK - Pan to Placeable](https://github.com/gamemaster-kosen/gmk-pan-to-placeable)"
 

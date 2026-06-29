@@ -30,8 +30,8 @@ docs/images/game-icons.net/hut.svg
 
 | Size | Settlement | Icon | Map Pin Size (px) |
 | --- | --- | --- | --- |
-| | thorp | ![](docs/images/game-icons.net/hut.svg) | 32 |
-| | hamlet | <img src="docs/images/game-icons.net/hut.svg" width="48"> | 40 |
+| | thorp | <img src="docs/images/game-icons.net/hut.svg" width="48"> | 32 |
+| | hamlet |  | 40 |
 | small | village | village.svg | 50 |
 | | village | village.svg | 50 |
 | large | village | village.svg | 50 |

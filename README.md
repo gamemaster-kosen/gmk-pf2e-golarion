@@ -24,9 +24,7 @@ A hexploration map of the Inner Sea Region.
 | Map | Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
 | Map | Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
 
-Map Pins have Icons and Sizes relative to their Locations.
-
-docs/images/game-icons.net/hut.svg
+Map Pins have Icons and Sizes relative to their Location importance.
 
 | Icon | Settlement | Pin Size (px) |
 | --- | ---: | :---: |

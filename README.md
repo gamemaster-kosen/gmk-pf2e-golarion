@@ -28,25 +28,8 @@ Map Pins have Icons and Sizes relative to their Locations.
 
 docs/images/game-icons.net/hut.svg
 
-| Size | Settlement | Icon | Map Pin Size (px) |
-| --- | --- | --- | :---: |
-| |  |  | 32 |
-| |  |  | 40 |
-| small |  |  | 50 |
-| |  |  | 50 |
-| large |  |  | 50 |
-| small | town |  | 60 |
-| | town |  | 60 |
-| large | town |  | 60 |
-| small | city |  | 70 |
-| | city |  | 70 |
-| large | city |  | 70 |
-| | metropolis |  | 80 |
-| | capital |  | 80 |
-
-
-| Icon | Settlement | Map Pin Size (px) |
-| --- | ---: | --- |
+| Icon | Settlement | Pin Size (px) |
+| --- | ---: | :---: |
 | <img src="docs/images/game-icons.net/hut.svg" width="48"> | thorp | 32 |
 | <img src="docs/images/game-icons.net/huts-village.svg" width="48"> | hamlet | 40 |
 | <img src="docs/images/game-icons.net/village.svg" width="48"> | small village | 50 |

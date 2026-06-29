@@ -19,7 +19,7 @@ A hexploration map of the Inner Sea Region.
 
 | Type | Level | Map | Scale |
 | --- | :--- | :---: | :---: |
-| Map | Golarion | [Inner Sea Region](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/inner-sea-region/base.webp) | 12mi. per Hex. |
+| Map | Golarion | [Inner Sea Region](assets/scenes/inner-sea-region/base.webp) | 12mi. per Hex. |
 | Map | Darklands | [Nar Voth](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/nar-voth.webp) | 12mi. per Hex. |
 | Map | Darklands | [Sekamina](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
 | Map | Darklands | [Orv](https://github.com/gamemaster-kosen/gmk-pf2e-golarion/blob/main/assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
@@ -28,19 +28,19 @@ Map Pins have Icons and Sizes relative to their Location importance.
 
 | Icon | Settlement | Pin Size (px) |
 | --- | ---: | :---: |
-| <img src="docs/images/game-icons.net/thorp.svg" width="48"> | thorp | 32 |
-| <img src="docs/images/game-icons.net/hamlet.svg" width="48"> | hamlet | 40 |
-| <img src="docs/images/game-icons.net/small-village.svg" width="48"> | small village | 50 |
-| <img src="docs/images/game-icons.net/village.svg" width="48"> | village | 50 |
-| <img src="docs/images/game-icons.net/large-village.svg" width="48"> | large village | 50 |
-| <img src="docs/images/game-icons.net/small-town.svg" width="48"> | small town | 60 |
-| <img src="docs/images/game-icons.net/town.svg" width="48"> | town | 60 |
-| <img src="docs/images/game-icons.net/large-town.svg" width="48"> | large town | 60 |
-| <img src="docs/images/game-icons.net/small-city.svg" width="48"> | small city | 70 |
-| <img src="docs/images/game-icons.net/city.svg" width="48"> | city | 70 |
-| <img src="docs/images/game-icons.net/large-city.svg" width="48"> | large city | 70 |
-| <img src="docs/images/game-icons.net/metropolis.svg" width="48"> | metropolis | 80 |
-| <img src="docs/images/game-icons.net/capital.svg" width="48"> | capital | 80 |
+| <img src="docs/images/game-icons.net/settlements/thorp.svg" width="48"> | thorp | 32 |
+| <img src="docs/images/game-icons.net/settlements/hamlet.svg" width="48"> | hamlet | 40 |
+| <img src="docs/images/game-icons.net/settlements/small-village.svg" width="48"> | small village | 50 |
+| <img src="docs/images/game-icons.net/settlements/village.svg" width="48"> | village | 50 |
+| <img src="docs/images/game-icons.net/settlements/large-village.svg" width="48"> | large village | 50 |
+| <img src="docs/images/game-icons.net/settlements/small-town.svg" width="48"> | small town | 60 |
+| <img src="docs/images/game-icons.net/settlements/town.svg" width="48"> | town | 60 |
+| <img src="docs/images/game-icons.net/settlements/large-town.svg" width="48"> | large town | 60 |
+| <img src="docs/images/game-icons.net/settlements/small-city.svg" width="48"> | small city | 70 |
+| <img src="docs/images/game-icons.net/settlements/city.svg" width="48"> | city | 70 |
+| <img src="docs/images/game-icons.net/settlements/large-city.svg" width="48"> | large city | 70 |
+| <img src="docs/images/game-icons.net/settlements/metropolis.svg" width="48"> | metropolis | 80 |
+| <img src="docs/images/game-icons.net/settlements/capital.svg" width="48"> | capital | 80 |
 
 ### [Recommended Module] - "[GMK - Pan to Placeable](https://github.com/gamemaster-kosen/gmk-pan-to-placeable)"
 

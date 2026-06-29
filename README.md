@@ -29,7 +29,7 @@ Map Pins have Icons and Sizes relative to their Location importance.
 Badges on Icons denote Modifiers; i.e. Small or Large.
 
 | Icon | Settlement | Pin Size (px) |
-| --- | ---: | :---: |
+| --- | :--- | :---: |
 | <img src="docs/images/game-icons.net/settlements/thorp.svg" width="48"> | thorp | 32 |
 | <img src="docs/images/game-icons.net/settlements/hamlet.svg" width="48"> | hamlet | 40 |
 | <img src="docs/images/game-icons.net/settlements/small-village.svg" width="48"> | small village | 50 |

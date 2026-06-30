@@ -15,6 +15,8 @@ A brief outline of the content provided in this module.
 
 ## Maps
 
+Maps are created based on a collation of data from PF1e and PF2e.
+
 Map Pins have Icons and Sizes relative to their Location importance.
 
 Badges on Icons denote Modifiers; i.e. Small or Large.

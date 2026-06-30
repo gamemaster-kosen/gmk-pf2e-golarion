@@ -15,7 +15,11 @@ A brief outline of the content provided in this module.
 
 ## Maps
 
-### [Map] - Inner Sea Region
+Map Pins have Icons and Sizes relative to their Location importance.
+
+Badges on Icons denote Modifiers; i.e. Small or Large.
+
+### [Map] - Inner Sea Region (Hexploration)
 
 A hexploration map of the Inner Sea Region.
 
@@ -26,9 +30,9 @@ A hexploration map of the Inner Sea Region.
 | Map | Darklands | [Sekamina](assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
 | Map | Darklands | [Orv](assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
 
-Map Pins have Icons and Sizes relative to their Location importance.
+### [Map] - Inner Sea Region (Drawn)
 
-Badges on Icons denote Modifiers; i.e. Small or Large.
+A drawn map of the Inner Sea Region.
 
 | Icon | Settlement | Pin Size (px) |
 | --- | :--- | :---: |
@@ -46,15 +50,15 @@ Badges on Icons denote Modifiers; i.e. Small or Large.
 | <img src="docs/images/game-icons.net/settlements/metropolis.svg" width="48"> | metropolis | 80 |
 | <img src="docs/images/game-icons.net/settlements/capital.svg" width="48"> | capital | 80 |
 
+# User-Guide
+
+A brief guide on how users may customise this content.
+
 ### [Recommended Module] - "[GMK - Pan to Placeable](https://github.com/gamemaster-kosen/gmk-pan-to-placeable)"
 
 Extends base functionality of Placeables Sidebar, allowing navigation to Placeables on the canvas via "Jump to Placeable" context menu entry.
 
 Effectively turns your Placeable Sidebar into a "Map Navigation" section.
-
-# User-Guide
-
-A brief guide on how users may customise this content.
 
 ## Homebrew Locations
 

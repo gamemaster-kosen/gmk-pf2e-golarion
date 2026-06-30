@@ -30,6 +30,8 @@ A hexploration map of the Inner Sea Region.
 | Map | Darklands | [Sekamina](assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
 | Map | Darklands | [Orv](assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
 
+Settlements are categorised according to the guidelines established in Pathfinder 1st Edition.
+
 | Icon | Settlement | Pin Size (px) |
 | --- | :--- | :---: |
 | <img src="docs/images/game-icons.net/settlements/thorp.svg" width="48"> | thorp | 32 |

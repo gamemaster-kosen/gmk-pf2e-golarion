@@ -13,6 +13,8 @@ A brief outline of the content provided in this module.
 - Pre-Configured Grid. (at a size of 100px)
 - Overlays; including Trade Routes + Nation & Regional Borders. (Inner Sea Region Only)
 
+## Maps
+
 ### [Map] - Inner Sea Region
 
 A hexploration map of the Inner Sea Region.

@@ -30,10 +30,6 @@ A hexploration map of the Inner Sea Region.
 | Map | Darklands | [Sekamina](assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
 | Map | Darklands | [Orv](assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
 
-### [Map] - Inner Sea Region (Drawn)
-
-A drawn map of the Inner Sea Region.
-
 | Icon | Settlement | Pin Size (px) |
 | --- | :--- | :---: |
 | <img src="docs/images/game-icons.net/settlements/thorp.svg" width="48"> | thorp | 32 |
@@ -49,6 +45,10 @@ A drawn map of the Inner Sea Region.
 | <img src="docs/images/game-icons.net/settlements/large-city.svg" width="48"> | large city | 70 |
 | <img src="docs/images/game-icons.net/settlements/metropolis.svg" width="48"> | metropolis | 80 |
 | <img src="docs/images/game-icons.net/settlements/capital.svg" width="48"> | capital | 80 |
+
+### [Map] - Inner Sea Region (Drawn)
+
+A drawn map of the Inner Sea Region.
 
 # User-Guide
 

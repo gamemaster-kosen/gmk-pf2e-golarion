@@ -12,6 +12,7 @@ A brief outline of the content provided in this module.
 - Levels. (seperating Maps; and Map Pins)
 - Pre-Configured Grid. (at a size of 100px)
 - Overlays; including Trade Routes + Nation & Regional Borders. (Inner Sea Region Only)
+- Regions ; Nations + Geographical Features (Work-In-Progess)
 
 ## Maps
 

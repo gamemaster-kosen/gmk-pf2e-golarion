@@ -24,6 +24,7 @@ A brief outline of the content provided in this module.
 **Notes**
 
 - **Map Pins**, linked to **Blank Journal Entries**, titled for **Locations** and **Points of Interest.**
+- Styled to denote Locations; including Settlements, Points of Interests, Geographical Features.
 
 ## Maps
 

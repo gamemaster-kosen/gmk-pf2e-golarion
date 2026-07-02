@@ -10,10 +10,19 @@ A brief outline of the content provided in this module.
 
 - Blank Journal Entries; with associated Map Pins.
 - Levels. (seperating Maps; and Map Pins)
-- Pre-Configured Grid. (at a size of 100px)
+- FoundryVTT Grid. (at a size of 100px)
 - Overlays; including Trade Routes + Nation & Regional Borders. (Inner Sea Region Only)
+- FoundryVTT Regions ; Nations + Geographical Features (Work-In-Progess)
 
-### [Map] - Inner Sea Region
+## Maps
+
+Maps are created based on a collation of data from PF1e and PF2e.
+
+Map Pins have Icons and Sizes relative to their Location importance.
+
+Badges on Icons denote Modifiers; i.e. Small or Large.
+
+### [Map] - Inner Sea Region (Hexploration)
 
 A hexploration map of the Inner Sea Region.
 
@@ -24,12 +33,10 @@ A hexploration map of the Inner Sea Region.
 | Map | Darklands | [Sekamina](assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
 | Map | Darklands | [Orv](assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
 
-Map Pins have Icons and Sizes relative to their Location importance.
-
-Badges on Icons denote Modifiers; i.e. Small or Large.
+Settlements are categorised according to the guidelines established in Pathfinder 1st Edition.
 
 | Icon | Settlement | Pin Size (px) |
-| --- | ---: | :---: |
+| --- | :--- | :---: |
 | <img src="docs/images/game-icons.net/settlements/thorp.svg" width="48"> | thorp | 32 |
 | <img src="docs/images/game-icons.net/settlements/hamlet.svg" width="48"> | hamlet | 40 |
 | <img src="docs/images/game-icons.net/settlements/small-village.svg" width="48"> | small village | 50 |
@@ -44,15 +51,19 @@ Badges on Icons denote Modifiers; i.e. Small or Large.
 | <img src="docs/images/game-icons.net/settlements/metropolis.svg" width="48"> | metropolis | 80 |
 | <img src="docs/images/game-icons.net/settlements/capital.svg" width="48"> | capital | 80 |
 
+### [Map] - Inner Sea Region (Drawn)
+
+A drawn map of the Inner Sea Region.
+
+# User-Guide
+
+A brief guide on how users may customise this content.
+
 ### [Recommended Module] - "[GMK - Pan to Placeable](https://github.com/gamemaster-kosen/gmk-pan-to-placeable)"
 
 Extends base functionality of Placeables Sidebar, allowing navigation to Placeables on the canvas via "Jump to Placeable" context menu entry.
 
 Effectively turns your Placeable Sidebar into a "Map Navigation" section.
-
-# User-Guide
-
-A brief guide on how users may customise this content.
 
 ## Homebrew Locations
 

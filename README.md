@@ -23,7 +23,7 @@ A brief outline of the content provided in this module.
 
 **Notes**
 
-- **Map Pins**, linked to **Blank Journal Entries**.
+- **Map Pins**, linked to **Blank Journal Entries**, titled for **Locations** and **Points of Interest.**
 
 ## Maps
 

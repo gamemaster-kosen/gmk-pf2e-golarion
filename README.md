@@ -18,8 +18,12 @@ A brief outline of the content provided in this module.
 
 **Regions**
 
-- FoundryVTT Regions, for Nations and Geographical Features.
+- Regions, for Nations and Geographical Features.
 - Blank, without defined Behavior, allowing customisation by User.
+
+**Notes**
+
+- **Map Pins**, linked to **Blank Journal Entries**.
 
 ## Maps
 

@@ -1,9 +1,9 @@
 {
   "id": "gmk-pf2e-golarion",
   "title": "GMK - PF2e: Golarion",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "manifest": "https://github.com/gamemaster-kosen/gmk-pf2e-golarion/releases/latest/download/module.json",
-  "download": "https://github.com/gamemaster-kosen/gmk-pf2e-golarion/releases/download/0.0.3/module.zip",
+  "download": "https://github.com/gamemaster-kosen/gmk-pf2e-golarion/releases/download/0.0.4/module.zip",
   "compatibility": {
     "minimum": "14",
     "verified": "14",

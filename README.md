@@ -14,6 +14,11 @@ A brief outline of the content provided in this module.
 - Overlays; including Trade Routes + Nation & Regional Borders. (Inner Sea Region Only)
 - FoundryVTT Regions ; Nations + Geographical Features (Work-In-Progess)
 
+**FoundryVTT Data Layers**
+**Regions**
+- FoundryVTT Regions, for Nations and Geographical Features.
+- Blank, without defined Behavior, allowing customisation by User.
+
 ## Maps
 
 Maps are created based on a collation of data from PF1e and PF2e.

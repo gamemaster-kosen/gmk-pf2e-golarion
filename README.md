@@ -15,7 +15,9 @@ A brief outline of the content provided in this module.
 - FoundryVTT Regions ; Nations + Geographical Features (Work-In-Progess)
 
 **FoundryVTT Data Layers**
+
 **Regions**
+
 - FoundryVTT Regions, for Nations and Geographical Features.
 - Blank, without defined Behavior, allowing customisation by User.
 

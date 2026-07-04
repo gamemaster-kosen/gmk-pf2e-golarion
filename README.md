@@ -28,6 +28,8 @@ This section details FoundryVTT integrations for this module.
 
 ### Map Key
 
+This section details the information presented on the Map.
+
 | Icon | Settlement |
 | --- | :--- |
 | <img src="docs/images/game-icons.net/settlements/thorp.svg" width="48"> | thorp |

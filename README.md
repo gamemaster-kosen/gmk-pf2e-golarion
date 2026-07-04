@@ -19,9 +19,8 @@ FoundryVTT Integration(s)
 
 - **Map Pins**
 - **Regions**
-  - x
-  - x
-- x
+  - Geographical Features ; such as Forests, Mountains, Rivers ...
+  - Nations ; accurate to the worldstate at the start of PF1e.
 
 **Notes**
 

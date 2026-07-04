@@ -17,10 +17,10 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
 
 ### FoundryVTT Integration(s)
 
-| Integration | Description | Example |
-| --- | --- | --- |
-| **Notes** | xxx | xxx |
-| **Regions** | xxx | xxx |
+| Integration | Description |
+| --- | --- |
+| **Notes** | Pins linked to Blank Journal Entries; positioned on each Map. |
+| **Regions** | Regions; without defined Behaviors; positioned on each Map. |
 
 ### Additional Notes
 

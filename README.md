@@ -26,6 +26,24 @@ This section details FoundryVTT integrations for this module.
 | Notes | Map Pins linked to Blank Journal Entries. |
 | Regions | Regions; without defined Behaviors. |
 
+### Map Key
+
+| Icon | Settlement |
+| --- | :--- | :---: |
+| <img src="docs/images/game-icons.net/settlements/thorp.svg" width="48"> | thorp |
+| <img src="docs/images/game-icons.net/settlements/hamlet.svg" width="48"> | hamlet |
+| <img src="docs/images/game-icons.net/settlements/small-village.svg" width="48"> | small village |
+| <img src="docs/images/game-icons.net/settlements/village.svg" width="48"> | village |
+| <img src="docs/images/game-icons.net/settlements/large-village.svg" width="48"> | large village |
+| <img src="docs/images/game-icons.net/settlements/small-town.svg" width="48"> | small town |
+| <img src="docs/images/game-icons.net/settlements/town.svg" width="48"> | town |
+| <img src="docs/images/game-icons.net/settlements/large-town.svg" width="48"> | large town |
+| <img src="docs/images/game-icons.net/settlements/small-city.svg" width="48"> | small city |
+| <img src="docs/images/game-icons.net/settlements/city.svg" width="48"> | city |
+| <img src="docs/images/game-icons.net/settlements/large-city.svg" width="48"> | large city |
+| <img src="docs/images/game-icons.net/settlements/metropolis.svg" width="48"> | metropolis |
+| <img src="docs/images/game-icons.net/settlements/capital.svg" width="48"> | capital |
+
 ### Additional Notes
 
 This section details useful information.

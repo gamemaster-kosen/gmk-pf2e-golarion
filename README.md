@@ -4,6 +4,8 @@ Maps of the World of Golarion from the Pathfinder TTRPG with FoundryVTT Integrat
 
 # Module Content
 
+This section details content included in this module.
+
 ## [Map] - Inner Sea Region + Darklands [PF1e: Blank Variant]
 
 A hexploration map of the **Inner Sea Region** of **Golarion**; including three layers of the **Darklands**.

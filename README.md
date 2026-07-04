@@ -10,7 +10,7 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
 
 | Level | Description |
 | --- | --- |
-| [Inner Sea Region](assets/scenes/inner-sea-region/base.webp) | Overworld; surface of Golarion |
+| [Inner Sea Region](assets/scenes/inner-sea-region/base.webp) | Surface-layer of Golarion |
 | [Nar Voth](assets/scenes/darklands/nar-voth.webp) | Top-layer of the Darklands |
 | [Sekamina](assets/scenes/darklands/sekamina.webp) | Middle-layer of the Darklands |
 | [Orv](assets/scenes/darklands/orv.webp) | Bottom-layer of the Darklands |

@@ -8,8 +8,6 @@ Maps of the World of Golarion from the Pathfinder TTRPG with FoundryVTT Integrat
 
 A hexploration map of the **Inner Sea Region** of **Golarion**; including three layers of the **Darklands**.
 
-This hexploration map is created at a scale of 12mi per Hex. It is accurate to a reasonable degree and created using a collation of resources from PF1e and PF2e. This map is currently only accurate (in terms of Nations) to PF1e; a PF2e variant of the FoundryVTT Data Layers may be created in the future, pending the completion of the PF1e FoundryVTT Data Layers.
-
 | Type | Level | Map |
 | --- | :--- | :---: |
 | Map | Golarion | [Inner Sea Region](assets/scenes/inner-sea-region/base.webp) |
@@ -20,6 +18,8 @@ This hexploration map is created at a scale of 12mi per Hex. It is accurate to a
 **Notes**
 
 This section details useful information.
+
+This hexploration map is created at a scale of 12mi per Hex. It is accurate to a reasonable degree and created using a collation of resources from PF1e and PF2e. This map is currently only accurate (in terms of Nations) to PF1e; a PF2e variant of the FoundryVTT Data Layers may be created in the future, pending the completion of the PF1e FoundryVTT Data Layers.
 
 # Licensing & Attribution
 

@@ -36,11 +36,11 @@ This section details useful information.
 
 ### [Macro] - Scale Map
 
-This macro will attempt to resize the currently active scene, and all placeables (map pins, regions, etc.) on that scene, to a specific grid size defined by the user. It will then output a copy of that scene, scaled based on the input grid size.
+This macro will attempt to resize the currently active scene, and all placeables (map pins, regions, etc.) on that scene, to a specific grid size defined by the user. It will then output a copy of that scene, scaled to the input grid size.
 
 ### [Macro] - Scale Icons
 
-This macro will resize all icons on the currently active scene.
+This macro will resize all icons on the currently active scene to the input size.
 
 # Active Development
 

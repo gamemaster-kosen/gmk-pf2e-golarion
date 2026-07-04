@@ -10,8 +10,6 @@ This section details content included in this module.
 
 A hexploration map of the **Inner Sea Region** of **Golarion**; including three layers of the **Darklands**.
 
-"PF1e" means this map is correct and accurate as of the start of PF1e: Age of Lost Omens.
-
 | FoundryVTT Level | Description |
 | --- | --- |
 | [Golarion - Inner Sea Region - Surface](assets/scenes/inner-sea-region/base.webp) | Surface-layer of Golarion |
@@ -33,6 +31,8 @@ This section details FoundryVTT integrations for this module.
 This section details useful information.
 
 **Blank Variant:** means this map contains blank foundryvtt integrations (notes, journal entries, regions etc.) -- the intent is to allow GMs that prefer to create and manage their own content to benefit from this module, without the need to "scrub" the content from a "feature-complete" map first.
+
+**PF1e:** means this map is correct and accurate as of the start of PF1e: Age of Lost Omens. This is in reference to the names of locations and geography. (for example; Sargava in PF2e became Viridian).
 
 # Active Development
 

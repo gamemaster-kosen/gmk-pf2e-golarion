@@ -34,9 +34,9 @@ This section details useful information.
 
 > **PF1e:** means this map is correct and accurate as of the start of PF1e: Age of Lost Omens. This is in reference to the names of locations and geography. (for example; Sargava in PF2e became Viridian).
 
-## [Macro] - Resize Map
+## [Macro] - Scale Map to Grid Size
 
-This macro will resize the currently active scene to a specific grid-size.
+This macro will resize the currently active scene to a specific grid-size defined by the user.
 
 > **Design Note:**
 > I cannot predict what map size will work best for every user, so this macro is included so that users may define their own map sizes; to fit within their own limitations and preferences.

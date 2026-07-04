@@ -19,6 +19,8 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
 
 ### FoundryVTT Integration(s)
 
+This section details FoundryVTT integrations for this module.
+
 | Integration | Description |
 | --- | --- |
 | **Notes** | Map Pins linked to Blank Journal Entries. |

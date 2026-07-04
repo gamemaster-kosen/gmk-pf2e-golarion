@@ -38,7 +38,7 @@ This section details useful information.
 
 This section details current development.
 
-PF2e variant of the Map.
+PF2e Map Variant: including updated Map Pins, Regions, Journal Entries, for Golarion's Inner Sea Region at the start of PF2e timeline.
 
 # Licensing & Attribution
 

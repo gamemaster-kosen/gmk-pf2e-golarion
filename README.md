@@ -19,7 +19,7 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
 
 | Integration | Description |
 | --- | --- |
-| **Notes** | Pins linked to Blank Journal Entries; positioned on each Map. |
+| **Notes** | Map Pins linked to Blank Journal Entries; positioned on each Map. |
 | **Regions** | Regions; without defined Behaviors; positioned on each Map. |
 
 ### Additional Notes

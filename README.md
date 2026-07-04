@@ -38,6 +38,8 @@ This section details useful information.
 
 This section details current development.
 
+PF2e variant of the Map.
+
 # Licensing & Attribution
 
 > **Paizo Inc. Community Use Policy**

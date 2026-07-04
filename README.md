@@ -10,10 +10,14 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
 
 | Type | Level | Map | Scale |
 | --- | :--- | :---: | :---: |
-| Map | Golarion | [Inner Sea Region](assets/scenes/inner-sea-region/base.webp) | 12mi. per Hex. |
-| Map | Darklands | [Nar Voth](assets/scenes/darklands/nar-voth.webp) | 12mi. per Hex. |
-| Map | Darklands | [Sekamina](assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
-| Map | Darklands | [Orv](assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
+| Map | Golarion | [Inner Sea Region](assets/scenes/inner-sea-region/base.webp) |
+| Map | Darklands | [Nar Voth](assets/scenes/darklands/nar-voth.webp) |
+| Map | Darklands | [Sekamina](assets/scenes/darklands/sekamina.webp) |
+| Map | Darklands | [Orv](assets/scenes/darklands/orv.webp) |
+
+**Notes**
+
+This section details useful information.
 
 # Licensing & Attribution
 

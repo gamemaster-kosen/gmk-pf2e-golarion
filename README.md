@@ -54,8 +54,6 @@ This section details useful information.
 
 > **PF1e:** means this map is correct and accurate as of the start of PF1e: Age of Lost Omens. This is in reference to the names of locations and geography. (for example; Sargava in PF2e became Viridian).
 
----
-
 ## Macros
 
 ### [Macro] - Scale Map

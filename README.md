@@ -28,7 +28,7 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
 
 This section details useful information.
 
-**"Blank Variant"** means that this map contains blank notes, journal entries, and regions -- intended to speed-up the workflow of a GM that prefers to create and manage their own content. This would otherwise require such a GM to "scrub" the features, but with this variant -- all that is required is for the GM to begin filling out whatever information they desire.
+**Blank Variant:** means this map contains blank foundryvtt integrations (notes, journal entries, regions etc.) -- the intent is to allow GMs that prefer to create and manage their own content to benefit from this module, without the need to "scrub" the content from a "feature-complete" map first.
 
 # Active Development
 

@@ -23,8 +23,8 @@ This section details FoundryVTT integrations for this module.
 
 | Integration | Description |
 | --- | --- |
-| **Notes** | Map Pins linked to Blank Journal Entries. |
-| **Regions** | Regions; without defined Behaviors. |
+| Notes | Map Pins linked to Blank Journal Entries. |
+| Regions | Regions; without defined Behaviors. |
 
 ### Additional Notes
 

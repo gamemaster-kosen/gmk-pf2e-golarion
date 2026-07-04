@@ -22,7 +22,7 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
   - Geographical Features ; such as Forests, Mountains, Rivers ...
   - Nations ; accurate to the worldstate at the start of PF1e.
 
-**Notes**
+### Additional Notes
 
 This section details useful information.
 

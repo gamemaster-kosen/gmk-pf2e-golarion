@@ -28,6 +28,8 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
 
 This section details useful information.
 
+**"Blank Variant"** means that this map contains blank notes, journal entries, and regions -- intended to speed-up the workflow of a GM that prefers to create and manage their own content. This would otherwise require such a GM to "scrub" the features, but with this variant -- all that is required is for the GM to begin filling out whatever information they desire.
+
 # Active Development
 
 This section details current development.

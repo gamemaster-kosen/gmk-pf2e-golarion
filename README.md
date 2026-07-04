@@ -54,7 +54,7 @@ This section details useful information.
 
 > **Blank Variant:** means this map contains blank foundryvtt integrations (notes, journal entries, regions etc.) -- the intent is to allow GMs that prefer to create and manage their own content to benefit from this module, without the need to "scrub" the content from a "feature-complete" map first.
 
-> **PF1e:** means this map is correct and accurate as of the start of PF1e: Age of Lost Omens. This is in reference to the names of locations and geography. (for example; Sargava in PF2e became Viridian).
+> **PF1e:** means this map is correct and accurate as of the start of PF1e: Age of Lost Omens. This is in reference to the names of locations and geography. (for example; Sargava in PF2e became Vidrian).
 
 ## Macros
 

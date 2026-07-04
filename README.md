@@ -15,7 +15,7 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
 | Map | Darklands | [Sekamina](assets/scenes/darklands/sekamina.webp) |
 | Map | Darklands | [Orv](assets/scenes/darklands/orv.webp) |
 
-FoundryVTT Integration(s)
+### FoundryVTT Integration(s)
 
 - **Map Pins**
 - **Regions**

@@ -29,7 +29,7 @@ This section details FoundryVTT integrations for this module.
 ### Map Key
 
 | Icon | Settlement |
-| --- | :--- | :---: |
+| --- | :--- |
 | <img src="docs/images/game-icons.net/settlements/thorp.svg" width="48"> | thorp |
 | <img src="docs/images/game-icons.net/settlements/hamlet.svg" width="48"> | hamlet |
 | <img src="docs/images/game-icons.net/settlements/small-village.svg" width="48"> | small village |

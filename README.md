@@ -28,10 +28,6 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
 
 This section details useful information.
 
-**Content Design Philosophy :** It is my intent to focus on user customisability over polished rigid features. This means, that the current variant of the map provided, is blank -- and a blank variant will be included, to allow for GMs to customise to their own vision.
-
-FoundryVTT Data Layers allow for unprecedented levels of automation, but too much quickly bloats into something unplayable. This is why this current release includes a blank variant; accurate to the start of PF1e.
-
 # Active Development
 
 This section details current development.

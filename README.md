@@ -39,7 +39,7 @@ This section details useful information.
 This macro will resize the currently active scene to a specific grid-size.
 
 > **Design Note:**
-> I cannot predict the preferences of others, so this macro is included so that users may define their own map sizes.
+> I cannot predict what map size will work best for every user, so this macro is included so that users may define their own map sizes; to fit within their own limitations and preferences.
 
 # Active Development
 

@@ -17,6 +17,13 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
 
 ### FoundryVTT Integration(s)
 
+| Integration | Description | Example |
+| --- | --- | --- |
+| Notes (Map Pins) | xxx | xxx |
+| Regions | xxx | xxx |
+
+**Notes :** 
+
 - **Map Pins**
 - **Regions**
   - Geographical Features ; such as Forests, Mountains, Rivers ...

@@ -12,10 +12,10 @@ A hexploration map of the Inner Sea Region; including the Darklands.
 
 | Type | Level | Map | Scale |
 | --- | :--- | :---: | :---: |
-| Map | Golarion | [Inner Sea Region](assets/scenes/inner-sea-region/base.webp) | 12mi. per Hex. |
-| Map | Darklands | [Nar Voth](assets/scenes/darklands/nar-voth.webp) | 12mi. per Hex. |
-| Map | Darklands | [Sekamina](assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
-| Map | Darklands | [Orv](assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
+| Overworld | Golarion | [Inner Sea Region](assets/scenes/inner-sea-region/base.webp) | 12mi. per Hex. |
+| Underground | Darklands | [Nar Voth](assets/scenes/darklands/nar-voth.webp) | 12mi. per Hex. |
+| Underground | Darklands | [Sekamina](assets/scenes/darklands/sekamina.webp) | 12mi. per Hex. |
+| Underground | Darklands | [Orv](assets/scenes/darklands/orv.webp) | 12mi. per Hex. |
 
 
 ---

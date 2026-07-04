@@ -19,15 +19,8 @@ A hexploration map of the **Inner Sea Region** of **Golarion**; including three 
 
 | Integration | Description | Example |
 | --- | --- | --- |
-| Notes (Map Pins) | xxx | xxx |
-| Regions | xxx | xxx |
-
-**Notes :** 
-
-- **Map Pins**
-- **Regions**
-  - Geographical Features ; such as Forests, Mountains, Rivers ...
-  - Nations ; accurate to the worldstate at the start of PF1e.
+| **Notes** | xxx | xxx |
+| **Regions** | xxx | xxx |
 
 ### Additional Notes
 

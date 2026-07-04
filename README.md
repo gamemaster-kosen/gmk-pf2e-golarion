@@ -9,17 +9,13 @@ Maps of the World of Golarion from the Pathfinder TTRPG with FoundryVTT Integrat
 A hexploration map of the **Inner Sea Region** of **Golarion**; including three layers of the **Darklands**.
 
 FoundryVTT V14 introduces "Levels"; allowing for a Scene to have multiple layers.
-- [Inner Sea Region](assets/scenes/inner-sea-region/base.webp)
-- [Nar Voth](assets/scenes/darklands/nar-voth.webp)
-- [Sekamina](assets/scenes/darklands/sekamina.webp)
-- [Orv](assets/scenes/darklands/orv.webp)
 
-| Type | Level | Map |
-| --- | :--- | :---: |
-| Map | Golarion |  |
-| Map | Darklands |  |
-| Map | Darklands |  |
-| Map | Darklands |  |
+| Level | Description |
+| --- | --- |
+| [Inner Sea Region](assets/scenes/inner-sea-region/base.webp) | Overworld |
+| [Nar Voth](assets/scenes/darklands/nar-voth.webp) | Top-layer of the Darklands |
+| [Sekamina](assets/scenes/darklands/sekamina.webp) | Middle-layer of the Darklands |
+| [Orv](assets/scenes/darklands/orv.webp) | Bottom-layer of the Darklands |
 
 ### FoundryVTT Integration(s)
 

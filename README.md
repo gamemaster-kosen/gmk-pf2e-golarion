@@ -2,6 +2,11 @@
 
 Maps of the World of Golarion from the Pathfinder TTRPG with FoundryVTT Integration.
 
+# Module Content
+
+FoundryVTT Integration(s):
+- x
+
 # Licensing & Attribution
 
 > **Paizo Inc. Community Use Policy**

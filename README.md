@@ -68,6 +68,7 @@ This macro will resize all icons on the currently active scene to the input size
 
 This section details current development.
 
+PF1e Map Variant: must be completed before updating with PF2e content.
 PF2e Map Variant: including updated Map Pins, Regions, Journal Entries, for Golarion's Inner Sea Region at the start of PF2e timeline.
 
 # Licensing & Attribution

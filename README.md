@@ -15,9 +15,9 @@ The scale is 12mi. per Hex.
 | FoundryVTT Level | Description | Features|
 | --- | --- | --- |
 | [Golarion - Inner Sea Region - Surface](assets/scenes/inner-sea-region/base.webp) | Surface-layer of Golarion | Notes, Regions|
-| [Darklands - Inner Sea Region - Nar Voth](assets/scenes/darklands/nar-voth.webp) | Top-layer of the Darklands | TBA |
-| [Darklands - Inner Sea Region - Sekamina](assets/scenes/darklands/sekamina.webp) | Middle-layer of the Darklands | TBA |
-| [Darklands - Inner Sea Region - Orv](assets/scenes/darklands/orv.webp) | Bottom-layer of the Darklands | TBA |
+| [Darklands - Inner Sea Region - Nar Voth](assets/scenes/darklands/nar-voth.webp) | Top-layer of the Darklands | Notes |
+| [Darklands - Inner Sea Region - Sekamina](assets/scenes/darklands/sekamina.webp) | Middle-layer of the Darklands | Notes |
+| [Darklands - Inner Sea Region - Orv](assets/scenes/darklands/orv.webp) | Bottom-layer of the Darklands | Notes |
 
 ### FoundryVTT Integration(s)
 

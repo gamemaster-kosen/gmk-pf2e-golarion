@@ -78,6 +78,7 @@ This section details current development.
 **Active Development - v0.0.6**
 - Several minor graphical fixes; on the Worldographer Map.
 - Wrote a custom "Worldographer --> FoundryVTT" tool; this took a while; but now I can automatically generate the geographical data in FoundryVTT from a Worldographer XML file.
+- Tool means that 99% of all geographical data for this, and future maps, is easier to fill in.
 - Added several "modifier" regions; these're intended to overlap other regions and when hexploration automation / gameplay features get added -- will add an additional "modifier" on the tiles. i.e. "Archipelago" or "River".
 
 # Licensing & Attribution

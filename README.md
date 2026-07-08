@@ -76,10 +76,12 @@ This section details current development.
 - PF2e Map Variant: including updated Map Pins, Regions, Journal Entries, for Golarion's Inner Sea Region at the start of PF2e timeline.
 
 **Active Development - v0.0.6**
-- Several minor graphical fixes; on the Worldographer Map.
-- Wrote a custom "Worldographer --> FoundryVTT" tool; this took a while; but now I can automatically generate the geographical data in FoundryVTT from a Worldographer XML file.
-- Tool means that 99% of all geographical data for this, and future maps, is easier to fill in.
-- Added several "modifier" regions; these're intended to overlap other regions and when hexploration automation / gameplay features get added -- will add an additional "modifier" on the tiles. i.e. "Archipelago" or "River".
+
+| Dev Note | Description |
+| --- | --- |
+| Graphical Fixes | Minor adjustments to the Worldographer Map; including changing the colour of Forest Hills to be more visible against Forest |
+| Worldographer Importer | (NOT DISTRIBUTED) A series of custom-written python and javascript scripts to extract data from a Worldographer XML file and reproduce them as regions in FoundryVTT. Cannot be distributed because has potentially destructive code which is against FoundryVTT TOS. |
+| Modifier Regions | These are intended to overlap other regions, and will facilitate hexploration gameplay. i.e. "Archipelago" and "Rivers" overlap tiles; allowing for both a "Grassland" and "River" to overlap; combining to form "Grassland River".
 
 # Licensing & Attribution
 

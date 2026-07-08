@@ -75,6 +75,11 @@ This section details current development.
 - PF1e Map Variant: must be completed before updating with PF2e content.
 - PF2e Map Variant: including updated Map Pins, Regions, Journal Entries, for Golarion's Inner Sea Region at the start of PF2e timeline.
 
+**Active Development - v0.0.6**
+- Several minor graphical fixes; on the Worldographer Map.
+- Wrote a custom "Worldographer --> FoundryVTT" tool; this took a while; but now I can automatically generate the geographical data in FoundryVTT from a Worldographer XML file.
+- Added several "modifier" regions; these're intended to overlap other regions and when hexploration automation / gameplay features get added -- will add an additional "modifier" on the tiles. i.e. "Archipelago" or "River".
+
 # Licensing & Attribution
 
 > **Paizo Inc. Community Use Policy**
